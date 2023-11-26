@@ -1,0 +1,3 @@
+python
+django
+-e .
