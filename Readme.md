@@ -95,3 +95,12 @@ python manage.py runserver
 
 **Visit the admin interface at http://localhost:8000/admin/ to manage job postings, candidates, and applications.**
 
+![Screenshot 2023-12-24 230222](https://github.com/samagra44/Hiring-Platform/assets/77968722/dcd3a362-c76b-4f7d-a6f0-718d27a40a34)
+
+![Screenshot 2023-12-24 230253](https://github.com/samagra44/Hiring-Platform/assets/77968722/9e85c46b-49b5-4891-8b82-8f3c4b9c6aa4)
+
+![Screenshot 2023-12-24 230405](https://github.com/samagra44/Hiring-Platform/assets/77968722/6acc4007-0100-4592-a939-70447d7ad3a3)
+
+![Screenshot 2023-12-24 230432](https://github.com/samagra44/Hiring-Platform/assets/77968722/731cb63f-2e1f-4e6d-8ff7-3746e3c68a49)
+
+![ss5](https://github.com/samagra44/Hiring-Platform/assets/77968722/db9ba419-4bb9-4dfa-afd5-2c8e70dc19f1)
